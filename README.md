@@ -4,7 +4,7 @@ Aplikasi chat desktop berbasis Python dengan antarmuka grafis (Tkinter) dan prot
 
 ---
 
-## 🚀 Fitur Unggulan
+## 🚀 Fitur
 
 - 🧑‍💬 **Login & Nickname Management**
 - 💬 **Chat publik & pesan pribadi (PM)**
